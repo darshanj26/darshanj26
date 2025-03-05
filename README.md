@@ -23,7 +23,6 @@
 ### 🌐 **Languages & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -44,9 +43,8 @@
     <tr>
       <td>
         <ul>
-          <li>Java (Core & Advanced)</li>
-          <li>Spring Boot</li>
-          <li>SQL (MySQL, PostgreSQL)</li>
+          <li>Core Java</li>
+          <li>SQL (MySQL, Oracle)</li>
           <li>JavaScript</li>
           <li>HTML & CSS</li>
           <li>Bootstrap</li>
