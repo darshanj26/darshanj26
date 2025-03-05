@@ -51,7 +51,7 @@ Here are some ideas to get you started:
         <ul>
           <li>Java</li>
           <li>Spring Boot</li>
-          <li>SQL (MySQL, PostgreSQL)</li>
+          <li>SQL (MySQL, Oracle SQL)</li>
           <li>JavaScript</li>
           <li>HTML & CSS</li>
         </ul>
