@@ -10,10 +10,6 @@
 - 💻 Currently working on **HostEase**
 - 🌱 Learning **Java Fullstack, Spring Boot & SQL**
 - 🎯 Interested in **Backend Development & Databases**
-- 📂 My projects include:
-  - **Weather Glance Web App** – Real-time weather tracking using JavaScript & APIs.
-  - **QR Code-based Citizen Feedback System** – Enables feedback collection via QR codes.
-  - **Notes Management System** – Organize & manage notes effectively.
 - 📫 Contact me: **darshanj2601@gmail.com**
 - 📷 Instagram: [__dj__26](https://www.instagram.com/__dj__26/)
 
@@ -23,6 +19,7 @@
 ### 🌐 **Languages & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -31,36 +28,24 @@
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
+### 🔹 **Skills**
+- Java (Core & Advanced)
+- Spring Boot
+- SQL (MySQL, PostgreSQL)
+- JavaScript
+- HTML & CSS
+- Bootstrap
+
 ---
 
-## 📂 Projects & Skills  
-<div align="left">
-  <table>
-    <tr>
-      <th>🔹 Technologies</th>
-      <th>📂 Projects</th>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li>Core Java</li>
-          <li>SQL (MySQL, Oracle)</li>
-          <li>JavaScript</li>
-          <li>HTML & CSS</li>
-          <li>Bootstrap</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><b>HostEase</b> - Web Hosting Platform</li>
-          <li><b>Library Management System</b> - Java & MySQL</li>
-          <li><b>Portfolio Website</b> - HTML, CSS, JavaScript</li>
-          <li><b>QR Code Feedback System</b> - PHP & MySQL</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📂 Projects  
+- **HostEase** - Web Hosting Platform
+- **Library Management System** - Java & MySQL
+- **Portfolio Website** - HTML, CSS, JavaScript
+- **QR Code Feedback System** - PHP & MySQL
+- **Weather Glance Web App** - Real-time weather tracking using JavaScript & APIs
+- **QR Code-based Citizen Feedback System** - Enables feedback collection via QR codes
+- **Notes Management System** - Organize & manage notes effectively
 
 ---
 
